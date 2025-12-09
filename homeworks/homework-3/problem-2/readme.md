@@ -8,8 +8,8 @@ In this assignment, you will implement a CUDA kernel that applies a simple condi
 You are given an input array **A** of size **N** (chosen at runtime).
 Compute the output array **B** as:
 
-    B[i] = A[i] * 10   if A[i] is even
-    B[i] = A[i]        if A[i] is odd
+    B[i] = A[i] * 10   if i is even
+    B[i] = A[i]        if i is odd
 
 
 
@@ -57,3 +57,4 @@ measurable
 Deliverables: 
 - your program for parts 1 and 2.
 - Documentation: All of the required results, profiles, explanations and comparisons using plots.
+
