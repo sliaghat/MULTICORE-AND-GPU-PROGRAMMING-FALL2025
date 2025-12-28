@@ -6,7 +6,7 @@ This repository contains the guidelines for your final project. This is a unique
 
 ## Project Phase: Proposal
 **Current Status:** `Open for Submission`  
-**Deadline:** December 1, 2025
+**Deadline:** December 31, 2025
 
 
 
